@@ -17,7 +17,7 @@ Before that, I received my Bachelor's in Systems Engineering from the [Universit
 - 04/2024: I successfully defended my thesis: Facilitating Cross-Lingual Information Retrieval Evaluations for African Languages.
 - 03/2024: Our work on [CIRAL](https://github.com/ciralproject/ciral) was accepted to SIGIR 2024.
 - 12/2023: Flag plant on Zero-shot cross-lingual reranking with LLMs for low-resource languages.
-- 12/2023: Presented [CIRAL](https://ciralproject.github.io/) at [FIRE 2023](http://fire.irsi.res.in/fire/2023/home)
+- 12/2023: Presented the [CIRAL](https://ciralproject.github.io/) track at [FIRE 2023](http://fire.irsi.res.in/fire/2023/home)
 - 05/2023: Organized [CIRAL](https://ciralproject.github.io/) - A Cross-Lingual Information Retrieval Track for African languages
 
 
